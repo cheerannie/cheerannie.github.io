@@ -1,7 +1,7 @@
 # Site settings
 title: Cheerful
 header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
+tagline: "悠闲"  
 description: "捡一片慵懒，慢悠生活"  
 baseurl: ""
 #url: "http://azeril.me"  
@@ -66,9 +66,9 @@ comments :
       short_name : cheerannie
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-66863061-1
-google_verify:
+# google_analytics: UA-66863061-1
+# google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# bing_verify:
 
 # Links to include in footer navigation
