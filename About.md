@@ -5,9 +5,7 @@ description: "慵懒"
 header-img: "img/plane.jpg"
 ---
 
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
-</center>
+
 
 翻页书、读点诗，偶尔写两字。
 陪陪娃，上上班，悠闲自在。
