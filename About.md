@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "相遇于文字"
+description: "慵懒"
 header-img: "img/plane.jpg"
 ---
 
